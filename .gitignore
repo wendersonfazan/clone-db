@@ -1,0 +1,11 @@
+.env
+.venv
+venv
+logs
+logs/*
+tmp
+tmp/*
+.idea
+estrutura.sql
+# Ignore all Python cache files
+__pycache__/

@@ -1,0 +1,13 @@
+colorama==0.4.6
+dotenv==0.9.9
+Faker==37.0.1
+halo==0.0.31
+log-symbols==0.0.14
+psycopg2-binary==2.9.10
+python-dotenv==1.0.1
+six==1.17.0
+spinners==0.0.24
+termcolor==2.5.0
+tqdm==4.67.1
+tzdata==2025.1
+pycryptodome==3.17
