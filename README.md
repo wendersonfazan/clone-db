@@ -1,8 +1,4 @@
-# Backup Homolog CTI
-
 Este projeto é utilizado para gerenciar e processar dumps de banco de dados.
-
-Ainda é um WIP ( Work In Progress )
 
 ## Estrutura do Projeto
 
@@ -33,7 +29,7 @@ O **postgres 17** instalado na máquina
 
 ```bash
 git clone <URL_DO_REPOSITORIO>
-cd backup-homolog-cti
+cd path
 ```
 
 2. Crie um ambiente virtual e ative-o diferente no Windows:
